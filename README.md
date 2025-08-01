@@ -27,12 +27,6 @@ I'm a **Computer Engineer** with a passion for **Artificial Intelligence** and *
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jpoll962&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🎓 Education & Background
