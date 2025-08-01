@@ -22,8 +22,8 @@ I'm a **Computer Engineer** with a passion for **Artificial Intelligence** and *
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpoll962&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpoll962&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpoll962&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpoll962&layout=compact&langs_count=8&theme=transparent&card_width=320"/>
 
 </div>
 
